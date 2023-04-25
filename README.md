@@ -1,2 +1,2 @@
 # TankPressureSimulator
-Simple  MVC Example with Servlets and JSP app aimed to train Java
+MVC Example with Servlets,JSP app 
